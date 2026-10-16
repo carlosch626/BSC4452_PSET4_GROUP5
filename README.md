@@ -11,4 +11,4 @@ Caroline Anderson's API: https://data.rcsb.org/#data-api
 
 Carlos Chavez Ramirez's API: https://pokeapi.co/
 
-John Nguyen's API: 
+John Nguyen's API: https://chempirical.com/api/
