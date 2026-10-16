@@ -9,6 +9,6 @@ Members: Caroline Anderson, Carlos Chavez Ramirez, John Nguyen
 
 Caroline Anderson's API: https://data.rcsb.org/#data-api
 
-Carlos Chavez Ramirez's API:
+Carlos Chavez Ramirez's API: https://pokeapi.co/
 
 John Nguyen's API: 
