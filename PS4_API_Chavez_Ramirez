@@ -1,0 +1,20 @@
+
+#requests library to request from API
+import requests
+
+#url from PokeAPI containing data from Generation 1 of the games
+url_gen1 = "https://pokeapi.co/api/v2/generation/1/"
+
+#get requests to url
+response = requests.get(url_gen1)
+data_gen1 = response.json()
+
+#checks whether the request was successful or returns an error
+response.raise_for_status()
+
+
+#prints region name
+print("Region:", data_gen1["main_region"]["name"])
+
+#prints number of pokemon in region 1
+print("Number of Pokémon:", len(data["pokemon_species"]))
